@@ -1,0 +1,2 @@
+# KatasMiguelAngelGT
+Katas del propedéutico
